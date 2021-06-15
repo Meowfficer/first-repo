@@ -1,3 +1,5 @@
 1. 1 Satu
+* One Ichi
+* Two Ni
 2. 2 Dua
 3. 3 Tiga
